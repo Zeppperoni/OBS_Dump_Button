@@ -78,6 +78,7 @@ VLC will need a few settings changed
 1. Browse to Tools -> Prefrences -> Output -> OpenGL video output //this allows streaming to OBS 
 2. Browse to Tools -> Prefrences -> subtitles/OSD -> Disable OSD //Remove play/pause/mute from the screen
 3.  Browse to Tools -> Prefrences -> Hotkeys -> mute -> under global setting enter a global key (f12 or anything you want NOTE global key make the key unuseable while VLC is open). //set a custom mute button globally
+4.  Place VLC in a virtual window using win+tab and creating a new desktop, VLC when minimzed stops working. 
 
 # Stream setup
 1. open your other first streaming software. This is the main software which has all you scense and 
