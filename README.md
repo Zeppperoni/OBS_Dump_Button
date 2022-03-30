@@ -24,7 +24,7 @@ Optional
 1. Windows 10/11 for virtual desktops
 2. Multiple monitors
 
-# MonTiny Setup
+# MonaTiny Setup
 
 MonaTiny setup
 MonaTiny is a small self-contained streaming server. Your secondary PCs will be streaming to your own private MonaTiny server rather than streaming to Twitch.
