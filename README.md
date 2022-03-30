@@ -79,7 +79,7 @@ VLC will need a few settings changed
 2. Browse to Tools -> Prefrences -> subtitles/OSD -> Disable OSD //Remove play/pause/mute from the screen
 3.  Browse to Tools -> Prefrences -> Hotkeys -> mute -> under global setting enter a global key (f12 or anything you want NOTE global key make the key unuseable while VLC is open). //set a custom mute button globally
 
-# stream setup
+# Stream setup
 1. open your other first streaming software. This is the main software which has all you scense and 
 2. Set your delay to a custom amount (this is how much time you have to stop profanity)
 3. Start your stream uploading to MonaRTMP server
